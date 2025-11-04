@@ -58,7 +58,7 @@ export const matrixQuotes = [
 // Social links and URLs
 export const socialLinks = {
   github: "https://github.com/varshithdupati",
-  resume: "https://drive.google.com/file/d/1QtnjPigPc6Q08Bb0_Lfx952x5SP_MXC3/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1qjHzqgLKO9reOivbJlk0zPY7MDm93UtM/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/varshithdupati/",
   leetcode: "https://leetcode.com/u/varshithdupati/",
   source: "https://github.com/varshithdupati/varshithdupati.github.io"
